@@ -4,4 +4,4 @@
 - Сопровождение и обслуживание программного обеспечения информационных систем.
 - Тема задания - *Кошачье кафе*
 #
-[Готовый макет] (https://www.figma.com/file/5oWGnI7vnqfz1xEmytUT1a/neko?node-id=0%3A1)
+[Готовый макет](https://www.figma.com/file/5oWGnI7vnqfz1xEmytUT1a/neko?node-id=0%3A1)
